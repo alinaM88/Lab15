@@ -1,0 +1,21 @@
+.header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgb(57, 200, 79);
+    width: 100%;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    margin: 6px;
+}
+
+.active{
+    background-color: rgb(218, 31, 168);
+    color: aliceblue;
+    padding: 6px;
+}
